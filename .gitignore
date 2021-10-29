@@ -4,3 +4,7 @@
 # Spark AR
 *.arproj
 *.arexport
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
