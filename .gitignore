@@ -1,0 +1,6 @@
+# OS generated files
+.DS_Store
+   
+# Spark AR
+*.arproj
+*.arexport
